@@ -7,21 +7,21 @@
 Список Youtube каналов, которые так или иначе относятся к IT.
 
 ## Sysadmin / DevOps
-- [Jeff Geerling](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg) – про Ansible, Kubernetes;
-- [DeusOps](https://www.youtube.com/channel/UCz4slJ1WzdCiEIBZ-WZgliw) – канал о DevOps;
-- [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA) – про DevOps, Kubernetes, Terraform;
-- [Dmitry Ketov](https://www.youtube.com/channel/UCvRRgjjKvyLNB9yx3oGu2Xw) – основной упор канала на системное администрирование;
-- [Kirill Semaev](https://www.youtube.com/channel/UCemtVTjKhD_GcEOQ_rNOrRw) – канал о DevOps, администрировании Linux;
-- [Системное администрирование, безопасность, сети – Академия Яндекса](https://www.youtube.com/channel/UCkufieG4LoGkHNOGrgMx3Vg) – в названии канала указано всё, про что он вещает;
-- [Сергей Геннадьевич](https://www.youtube.com/channel/UCH5y8u3yo8NWOD29VLNWCDQ) – блог о ИТ, преимущественно о железной составляющей;
-- [Dmitry Lambert](https://www.youtube.com/channel/UCUQSCqrwiCjwQZQGznTkvrQ) – туториалы по Zabbix, Linux, etc;
-- [ADV-IT](https://www.youtube.com/channel/UC-sAMvDe7gTmBbub-rWljZg) – DevOps и все что рядом;
-- [realmanual](https://youtube.com/c/realmanual) – всякое разное про технологии и около;
-- [Oleksiy Pototskyy](https://www.youtube.com/channel/UC9SaO6h4dwENOJJwrXuPodQ) – молодой канал про DevOps, но мне нравится;
-- [the roadmap](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now) – канал сайта [roadmap.sh](https://roadmap.sh);
-- [Network Education](https://www.youtube.com/c/NetworkeducationRu) – канал про сети не для новичков;
-- [Алексей Потоцкий](https://www.youtube.com/channel/UC9SaO6h4dwENOJJwrXuPodQ) – все о DevOps и SRE практиках, разбор реальных ситуаций, архитектура инфраструктуры, безопасность;
-- [LearnLinuxTV](https://www.youtube.com/channel/UCxQKHvKbmSzGMvUrVtJYnUA) – туториалы, гайды, обзоры дистрибутивов Linux;
+- [Jeff Geerling](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg) – про Ansible, Kubernetes; [ENG]
+- [DeusOps](https://www.youtube.com/channel/UCz4slJ1WzdCiEIBZ-WZgliw) – канал о DevOps; [RU]
+- [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA) – про DevOps, Kubernetes, Terraform; [ENG]
+- [Dmitry Ketov](https://www.youtube.com/channel/UCvRRgjjKvyLNB9yx3oGu2Xw) – основной упор канала на системное администрирование; [RU]
+- [Kirill Semaev](https://www.youtube.com/channel/UCemtVTjKhD_GcEOQ_rNOrRw) – канал о DevOps, администрировании Linux; [RU]
+- [Системное администрирование, безопасность, сети – Академия Яндекса](https://www.youtube.com/channel/UCkufieG4LoGkHNOGrgMx3Vg) – в названии канала указано всё, про что он вещает; [RU]
+- [Сергей Геннадьевич](https://www.youtube.com/channel/UCH5y8u3yo8NWOD29VLNWCDQ) – блог о ИТ, преимущественно о железной составляющей; [RU]
+- [Dmitry Lambert](https://www.youtube.com/channel/UCUQSCqrwiCjwQZQGznTkvrQ) – туториалы по Zabbix, Linux, etc; [ENG]
+- [ADV-IT](https://www.youtube.com/channel/UC-sAMvDe7gTmBbub-rWljZg) – DevOps и все что рядом; [RU]
+- [realmanual](https://youtube.com/c/realmanual) – всякое разное про технологии и около; [RU]
+- [Oleksiy Pototskyy](https://www.youtube.com/channel/UC9SaO6h4dwENOJJwrXuPodQ) – молодой канал про DevOps, но мне нравится; [RU]
+- [the roadmap](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now) – канал сайта [roadmap.sh](https://roadmap.sh); [ENG]
+- [Network Education](https://www.youtube.com/c/NetworkeducationRu) – канал про сети не для новичков; [RU]
+- [Алексей Потоцкий](https://www.youtube.com/channel/UC9SaO6h4dwENOJJwrXuPodQ) – все о DevOps и SRE практиках, разбор реальных ситуаций, архитектура инфраструктуры, безопасность; [RU]
+- [LearnLinuxTV](https://www.youtube.com/channel/UCxQKHvKbmSzGMvUrVtJYnUA) – туториалы, гайды, обзоры дистрибутивов Linux; [ENG]
 - [Murad Aslanov](https://www.youtube.com/c/MuradAslanov) – канал про GNU/Linux и IT;
 - [Rotoro cloud](https://www.youtube.com/channel/UCAKBEk-i-irZSLWnhUfguwg) – канал про DevOps и около;
 - [DeusOps](https://www.youtube.com/channel/UCz4slJ1WzdCiEIBZ-WZgliw) - видеоматериалы для Системных администраторов, Системных архитекторов, DevOps;
